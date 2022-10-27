@@ -1,0 +1,9 @@
+Title: Canoni concordati (Patti territoriali)
+
+----
+
+Breve: Contratto di affitto in cui il canone mensile non è libero, ma stabilito in base a specifici “accordi territoriali” che coinvolgono i Comuni, le organizzazioni di inquilini e di proprietari e il Ministero dei Lavori Pubblici. Nel Comune di Venezia tale accordo è stato rinnovato il 28 marzo 2018.
+
+----
+
+Completo: [{"content":{"text":"<p>Contratto di affitto in cui il canone mensile non \u00e8 libero, ma stabilito in base a specifici \u201caccordi territoriali\u201d che coinvolgono i Comuni, le organizzazioni di inquilini e di proprietari e il Ministero dei Lavori Pubblici. Nel Comune di Venezia tale accordo \u00e8 stato rinnovato il 28 marzo 2018.<\/p><p>In generale, questi contratti sono vantaggiosi sia per l\u2019inquilino poich\u00e9 il canone \u00e8 inferiore al prezzo di mercato, sia per il proprietario che gode di alcune agevolazioni fiscali.<br><a href=\"https:\/\/www.comune.venezia.it\/content\/patti-territoriali\" rel=\"noopener noreferrer\">https:\/\/www.comune.venezia.it\/content\/patti-territoriali<\/a>\u00a0<\/p><p><br><\/p>"},"id":"3d8c924d-ff97-4553-b61e-5ab9156472f8","isHidden":false,"type":"text"}]

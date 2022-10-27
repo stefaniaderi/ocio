@@ -1,0 +1,11 @@
+Title: Nome e Cognome
+
+----
+
+Desc: Ecco la bio
+
+----
+
+Img:
+
+- ferenc_pinter.jpg

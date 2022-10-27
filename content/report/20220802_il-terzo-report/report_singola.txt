@@ -1,0 +1,35 @@
+Title: Il terzo report
+
+----
+
+Subheading: Ecco qui il terzo report
+
+----
+
+Cover:
+
+- 4.jpg
+
+----
+
+Date: 2022-08-02
+
+----
+
+Author: 
+
+----
+
+Topics: Locazioni Turistiche
+
+----
+
+Categories: 
+
+----
+
+Pdf: 
+
+----
+
+Text: 

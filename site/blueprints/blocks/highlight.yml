@@ -1,0 +1,5 @@
+name: Highlight
+icon : smile
+fields:
+  text:
+    type: text

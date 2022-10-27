@@ -1,0 +1,39 @@
+Title: Gli squilibri del turismo veneziano
+
+----
+
+Subheading: 
+
+----
+
+Cover:
+
+- monitoraggio-affittanze-header.png
+
+----
+
+Date: 2022-10-19
+
+----
+
+Author:
+
+- 67NbespG
+
+----
+
+Topics: Locazioni Turistiche
+
+----
+
+Categories: monitoraggio
+
+----
+
+Pdf:
+
+- nuovo.pdf
+
+----
+
+Text: [{"content":{"text":"<p><strong>Bollettino mensile<\/strong> con i dati aggiornati sul settore ricettivo alberghiero ed extra-alberghiero. confrontati con quelli sulla popolazione. Scopri. attraverso grafici e mappe interattive le dinamiche di squilibrio che sottraggono abitazioni residenziali in favore del settore turistico.<\/p><p><em>Dati aggiornati al: 2021-10-03<\/em><\/p>"},"id":"522dacd4-7dc7-4d9f-b427-aa9841f05b3b","isHidden":false,"type":"text"},{"content":{"text":"GRAFICO"},"id":"55f06a3b-a0c8-489c-8569-27c84e3da029","isHidden":false,"type":"markdown"},{"content":{"level":"h2","text":"Crescita esponenziale e incontrollata"},"id":"aec101bd-95c7-4e76-99dd-6e02de13dcf5","isHidden":false,"type":"heading"},{"content":{"text":"<iframe title=\"L'andamento dell'offerta ricettiva, Venezia insulare\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-0AZ8d\" src=\"\/\/datawrapper.dwcdn.net\/0AZ8d\/3\/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"600\"><\/iframe><script type=\"text\/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",function(a){if(void 0!==a.data[\"datawrapper-height\"])for(var e in a.data[\"datawrapper-height\"]){var t=document.getElementById(\"datawrapper-chart-\"+e)||document.querySelector(\"iframe[src*='\"+e+\"']\");t&&(t.style.height=a.data[\"datawrapper-height\"][e]+\"px\")}})}();\n<\/script>"},"id":"843b06a9-09d3-40d2-b011-445981867e0e","isHidden":false,"type":"markdown"},{"content":[],"id":"5b484581-8fc4-4f8e-b8c0-3bd31fed17bf","isHidden":false,"type":"line"},{"content":{"text":"<iframe title=\"Percentuale di alloggi privati sul totale delle strutture ricettive.\" aria-label=\"Interactive area chart\" id=\"datawrapper-chart-bEkq3\" src=\"\/\/datawrapper.dwcdn.net\/bEkq3\/1\/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"800\"><\/iframe><script type=\"text\/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",function(a){if(void 0!==a.data[\"datawrapper-height\"])for(var e in a.data[\"datawrapper-height\"]){var t=document.getElementById(\"datawrapper-chart-\"+e)||document.querySelector(\"iframe[src*='\"+e+\"']\");t&&(t.style.height=a.data[\"datawrapper-height\"][e]+\"px\")}})}();<\/script>"},"id":"cc56b78b-e60c-4932-be22-3789acae9199","isHidden":false,"type":"markdown"},{"content":[],"id":"4bed0c68-6c0f-449c-b2ad-aef3ff525a15","isHidden":false,"type":"line"},{"content":{"text":"<iframe title=\"Nel 2018 tanti residenti che posti letto\" aria-label=\"Range Plot\" id=\"datawrapper-chart-lpd4A\" src=\"\/\/datawrapper.dwcdn.net\/lpd4A\/6\/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"651\"><\/iframe><script type=\"text\/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",function(a){if(void 0!==a.data[\"datawrapper-height\"])for(var e in a.data[\"datawrapper-height\"]){var t=document.getElementById(\"datawrapper-chart-\"+e)||document.querySelector(\"iframe[src*='\"+e+\"']\");t&&(t.style.height=a.data[\"datawrapper-height\"][e]+\"px\")}})}();<\/script>"},"id":"38f98944-208c-4a09-9c81-71f52cf34abf","isHidden":false,"type":"markdown"},{"content":{"level":"h2","text":"Sovraccarico turistico in zone di emergenza abitativa<br>"},"id":"befa5d44-7aec-471b-8d5f-c84cd72bf1ee","isHidden":false,"type":"heading"},{"content":{"text":"<p>La seguente mappa mostra la concentrazione di posti letto in confronto alla popolazione residente in ciascun isolato. Utilizzando l'icona in alto a destra \u00e8 possibile filtrare i dati e mostrare la mappa considerando solo i posti letto in locazione turistica. Il numero di zone rosso scuro diminuir\u00e0, ma quelle che rimangono con una forte sproporzione sono forse i casi ancora pi\u00f9 critici: quelli in cui i posti letto disponibili sono dentro abitazioni normali, non in alberghi, e che dunque sono stati tolti dal mercato residenziale.<\/p>"},"id":"f92f613c-0380-4bf2-b86e-8c8f62c8a167","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Attenzione, la legenda e i colori si riferiscono sempre al filtro selezionato!<\/strong> Per esempio, con il filtro predefinito \"tutte le strutture ricettive\", le zone verdi indicate con \"0 posti letto\" sono effettivamente zone prive di posti letto turistici e con solo residenti; con il filtro \"solo locazioni turistiche\", le zone verdi indicate con \"0 posti letto\" sono zone prive di posti letto in locazioni turistiche, ma non \u00e8 detto che non vi siano posti letto in alberghi.<br>Se un isolato \u00e8 vuoto, vuol dire che non vi sono n\u00e9 residenti n\u00e9 posti letto.<\/p>"},"id":"7345a1e1-620d-4db6-b2fb-e6da37db0198","isHidden":false,"type":"text"},{"content":{"text":"<div class=\"slides-container\" style=\"height:600px;padding-top: 0px\">\n<iframe src=\"https:\/\/alice-corona.eu\/works\/ocio-map\/\" style=\"width:100%\" scrolling=\"no\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe><\/div>"},"id":"ec1a04e9-dc6b-42fa-abc5-2b31035cdbd3","isHidden":false,"type":"markdown"},{"content":{"level":"h2","text":"Professionalizzazione del settore e concentrazione delle\u00a0risorse"},"id":"49c00123-d193-4176-bae3-41a3ab27f068","isHidden":false,"type":"heading"},{"content":{"text":"<p>Negli annunci su Airbnb, <strong>1 host su 5<\/strong> (il 22% degli host) gestisce molteplici annunci per un appartamento. Questo 22% gestisce quasi il 62% degli annunci, ovvero <strong>2 annunci su 3<\/strong>.<br><strong>Il 5%<\/strong> pi\u00f9 \u201caccentratore\u201d gestisce addirittura il <strong>33% degli annunci<\/strong>*.<\/p><p>Questo dato \u00e8 inoltre una probabile sottostima, poich\u00e8 non sono stati conteggiati i diversi casi in cui un host apre un profilo diverso per ogni annuncio. Alcuni di questi sono evidenti dal fatto che alcune descrizioni di host diversi o descrizioni di appartamenti di host diversi sono pressoch\u00e9 identiche.<\/p>"},"id":"71fe2348-5725-4d33-8ab2-e087334916bc","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["multihost.png"],"src":"","alt":"","caption":"* Sono stati considerati solo gli annunci degli appartamenti interi, per evitare che la stima fosse inflazionata dal fatto che un host pu\u00f2 mettere pi\u00f9 annunci per la stessa casa, esempio: 1 come appartamento intero da quattro letti, 2 come due stanze singole da due letti,4 come quattro posti letto.<br><strong>Fonte dati<\/strong>: Elaborazione OCIO su dati <a href=\"http:\/\/insideairbnb.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">InsideAirbnb<\/a> del 07 Agosto 2019.","link":"","ratio":"","crop":"false"},"id":"952b2db4-45ab-4d83-aba9-eabe3ea16527","isHidden":false,"type":"image"},{"content":{"text":"<p>Nel grafico qui sotto puoi esplorare le connessioni tra host e annunci sulla piattaforma Airbnb, grazie ai dati forniti da <a href=\"http:\/\/insideairbnb.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">InsideAirbnb<\/a> del 07 Agosto 2019.<br>Ti consigliamo di esplorare il grafico seguente in <a target=\"_blank\" rel=\"noopener noreferrer\">una pagina tutta sua<\/a>.<\/p>"},"id":"1871bfd3-8ff3-48fc-af7d-43e4a3d2ea76","isHidden":false,"type":"text"},{"content":{"text":"<iframe src=\"..\/assets\/viz\/grafo\/index.html\" style=\"width:100%;\" height=\"900px\" scrolling=\"no\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe>"},"id":"2d7525e4-78a0-48a2-b194-940f5b57c979","isHidden":false,"type":"markdown"}]

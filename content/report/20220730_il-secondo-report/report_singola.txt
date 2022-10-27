@@ -1,0 +1,39 @@
+Title: Il secondo report
+
+----
+
+Subheading: Ecco il sottotitolo
+
+----
+
+Cover:
+
+- 11.jpg
+
+----
+
+Date: 2022-07-30
+
+----
+
+Author: 
+
+----
+
+Topics: Edilizia Residenziale Pubblica
+
+----
+
+Categories: report
+
+----
+
+Pdf: 
+
+----
+
+Text: [{"content":{"text":"<ul><li>ecco un elenco puntato<\/li><\/ul>"},"id":"403a009c-ee34-4f22-b603-019c79aa2231","isHidden":false,"type":"list"},{"content":{"location":"kirby","image":["texture-bitmap-182084195.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"5949552c-097a-4d3a-b034-2a717a65b03a","isHidden":false,"type":"image"}]
+
+----
+
+Tags: ERP

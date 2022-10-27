@@ -1,0 +1,18 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Lemma
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 📑
+
+
+fields:
+  completo:
+    type: blocks
+    label: Testo completo
+  identifier:
+    label: Identifier
+    type: slug
+    wizard:
+      field: input
+      text: Generate!
+      sync: title

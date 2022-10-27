@@ -1,0 +1,37 @@
+Title: Cena sociale
+
+----
+
+Cover: 
+
+----
+
+Data: 2022-11-12
+
+----
+
+Ora: 19:30:00
+
+----
+
+Dove: Campo S. Polo
+
+----
+
+Text: <p>abcdefghijklmno</p>
+
+----
+
+Link: https://www.facebook.com/events/3158448981094767/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D
+
+----
+
+Headline: 
+
+----
+
+Year: 2022
+
+----
+
+Image: fico.jpg

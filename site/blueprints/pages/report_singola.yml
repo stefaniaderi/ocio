@@ -1,0 +1,103 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Report
+
+# Sorting number scheme that is applied when page status is changed to `listed`
+# More about page sorting: https://getkirby.com/docs/reference/panel/blueprints/page#sorting
+num: date
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 📖
+
+# Custom descriptions for each page status depending on use case
+# More about page status: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
+status:
+  draft:
+    label: Bozza
+    text: Il report è ancora in modalità bozza. Può essere vista solo dai redattori con accesso al pannello.
+  unlisted:
+    label: In revisione
+    text: Il report è online e può essere visitata con l'URL diretto. Il team deve ancora dare il via libera definitivo alla pubblicazione.
+  listed:
+    label: Pubblicato
+    text: Il report è online e visibile nel blog
+
+# Define the form layout with two columns
+# Columns are optional but help structure the form layout
+# More about columns: https://getkirby.com/docs/guide/blueprints/layout#defining-columns
+columns:
+
+  - width: 1/3
+    # This second column holds a fields section with multiple fields
+    # More about fields sections: https://getkirby.com/docs/reference/panel/sections/fields
+    sections:
+      meta:
+        type: fields
+        fields:
+          # If you need the same field in multiple locations, you can define them once and reuse whereever needed.
+          # Here we use a files field defined in `/site/blueprints/field/cover.yml`
+          subheading:
+            label: Sottotitolo
+            type: text
+          cover: fields/cover
+          date:
+            label: Pubblicato il
+            type: date
+            display: DD/MMMM/YYYY
+            default: now
+          author:
+            label: Autore
+            type: users
+          # Fields types can be added using the shortcut `fieldname: true`
+          # (however, you can only use a fieldname once per page and this only makes sense for simple fields without configuration)
+          topics:
+            type: tags
+            label: Argomento
+            options:
+              - Edilizia Residenziale Pubblica
+              - Locazioni Turistiche
+              - Edilizia Convenzionata
+          categories:
+            type: tags
+            label: Tipologia
+            options:
+              - report
+              - monitoraggio
+              - articolo
+
+          pdf:
+            info: "carica qui il pdf"
+            label: Versione PDF
+            type: files
+            template: pdf
+            max: 1
+        
+
+  - width: 2/3
+    # This columns only has a single field
+    fields:
+      info:
+        theme: positive
+        label: CODICE PER GLOSSARIO | Sostituire [TAG] e [PAROLA], sostituire [pan]->[span]
+        type: info
+        text: '< pan class="name" onclick="showDiz('TAG')"> PAROLA < / pan> '
+      text:
+        type: blocks
+        label: Testo dell'articolo
+        fieldsets:
+          - text
+          - heading
+          - list
+          - image
+          - gallery
+          - video
+          - markdown
+          - code
+          - quote
+          - code
+          - table
+          - line
+          highlight:
+            name: highlight
+            fields:
+              text:
+                type: textarea

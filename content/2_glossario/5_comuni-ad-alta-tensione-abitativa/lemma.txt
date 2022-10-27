@@ -1,0 +1,9 @@
+Title: Comuni ad alta tensione abitativa
+
+----
+
+Breve: Sono una serie di comuni, individuati per legge e in base a delibere del CIPE (Comitato Interministeriale per la Programmazione Economica), nei quali è presente un forte disagio abitativo. Tra i Comuni ad alta tensione abitativa vi sono tutte le maggiori città italiane e i capoluoghi di provincia.
+
+----
+
+Completo: [{"content":{"text":"<p>Sono una serie di comuni, individuati per legge e in base a delibere del CIPE (Comitato Interministeriale per la Programmazione Economica), nei quali \u00e8 presente un forte disagio abitativo. Tra i Comuni ad alta tensione abitativa vi sono tutte le maggiori citt\u00e0 italiane e i capoluoghi di provincia.<\/p><p>Proprio in ragione del disagio abitativo, si prevede che ai proprietari che concludono contratti di locazione a canone agevolato o concordato siano concessi significativi benefici fiscali (cedolare secca al 10%).<\/p><p><br><\/p>"},"id":"a79573e5-da0e-4792-a69c-ec04998e38ce","isHidden":false,"type":"text"}]

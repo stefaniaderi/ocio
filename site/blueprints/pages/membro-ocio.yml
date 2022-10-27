@@ -1,0 +1,15 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Membro Ocio
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 📑
+
+
+fields:
+
+  desc:
+    type: text
+    label: Bio
+  img:
+    type: files
+    label: Immagine

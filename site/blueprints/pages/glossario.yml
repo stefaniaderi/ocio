@@ -1,0 +1,24 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Glossario
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 📑
+
+# Define the form layout with two columns
+# More about columns: https://getkirby.com/docs/guide/blueprints/layout#defining-columns
+
+sections:
+  listed:
+    extends: sections/lemma
+    label: Pubblicati
+    status: listed
+    size: small
+    layout: cards
+    #name:
+      #slug:
+     # type:slug / sync:name
+
+  drafts:
+    extends: sections/lemma
+    label: Bozze
+    status: draft

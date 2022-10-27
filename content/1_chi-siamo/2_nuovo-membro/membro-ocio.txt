@@ -1,0 +1,11 @@
+Title: Nuovo Membro
+
+----
+
+Desc: Ecco la seconda bio
+
+----
+
+Img:
+
+- david_bowie.jpg

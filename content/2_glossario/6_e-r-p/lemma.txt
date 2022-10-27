@@ -1,0 +1,13 @@
+Title: E.R.P. (Edilizia Residenziale Pubblica)
+
+----
+
+Completo: [{"content":{"text":"<p>\u00c8 costituita da alloggi il cui canone di locazione \u00e8 commisurato al reddito delle famiglie locatarie.\u00a0<\/p><p>Vi si accede tramite bando comunale che ne identifica i criteri di accesso e relativa graduatoria. La propriet\u00e0 di tali alloggi \u00e8 di Enti o Amministrazioni pubbliche mentre la gestione pu\u00f2 essere affidata a soggetti terzi.<\/p><p><br><\/p>"},"id":"d11b4c7e-6c6a-4f8f-a50b-abe5796371c7","isHidden":false,"type":"text"}]
+
+----
+
+Identifier: 
+
+----
+
+Breve: È costituita da alloggi il cui canone di locazione è commisurato al reddito delle famiglie locatarie. 
